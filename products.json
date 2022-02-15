@@ -1,0 +1,102 @@
+[
+{
+"id": 1,
+"name": "Samsung Galaxy M52 5G 6/128GB",
+"price": "9 999₴",
+"article": "111000",
+"color": "white",
+"imageUrl": "/images/phone1.jpg",
+"isFavourite": false,
+"isInBasket": false
+},
+{
+"id": 2,
+"name": "Samsung Galaxy S21 FE 6/128GB",
+"price": "25 999₴",
+"article": "111100",
+"color": "olive",
+"imageUrl": "/images/phone2.jpg",
+"isFavourite": false,
+"isInBasket": false
+},
+{
+"id": 3,
+"name": "Apple iPhone 11 64GB",
+"price": "18 499₴",
+"article": "111000",
+"color": "black",
+"imageUrl": "/images/phone3.jpg",
+"isFavourite": false,
+"isInBasket": false
+},
+{
+"id": 4,
+"name": "Poco X3 Pro 8/256GB",
+"price": "8 999₴",
+"article": "111000",
+"color": "frost blue",
+"imageUrl": "/images/phone4.jpg",
+"isFavourite": false,
+"isInBasket": false
+},
+{
+"id": 5,
+"name": "Motorola Moto G60 6/128GB",
+"price": "7 799₴",
+"article": "111000",
+"color": "haze gray",
+"imageUrl": "/images/phone5.jpg",
+"isFavourite": false,
+"isInBasket": false
+},
+{
+"id": 6,
+"name": "Apple iPhone 13 Pro Max 128GB",
+"price": "41 499₴",
+"article": "111000",
+"color": "gold",
+"imageUrl": "/images/phone6.jpg",
+"isFavourite": false,
+"isInBasket": false
+},
+{
+"id": 7,
+"name": "Xiaomi 11T 8/128GB",
+"price": "14 499₴",
+"article": "111000",
+"color": "blue",
+"imageUrl": "/images/phone7.jpg",
+"isFavourite": false,
+"isInBasket": false
+},
+{
+"id": 8,
+"name": "ZTE RedMagic 6R 8/128GB",
+"price": "11 999₴",
+"article": "111000",
+"color": "cosmos",
+"imageUrl": "/images/phone8.jpg",
+"isFavourite": false,
+"isInBasket": false
+},
+{
+"id": 9,
+"name": "Huawei P Smart 2021 NFC 128GB",
+"price": "4 799₴",
+"article": "111000",
+"color": "green",
+"imageUrl": "/images/phone9.jpg",
+"isFavourite": false,
+"isInBasket": false
+},
+{
+"id": 10,
+"name": "Xiaomi Redmi 10 4/64GB",
+"price": "5 199₴",
+"article": "111000",
+"color": "sea blue",
+"imageUrl": "/images/phone10.jpg",
+"isFavourite": false,
+"isInBasket": false
+}
+]
