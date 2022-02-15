@@ -1,0 +1,87 @@
+.Modal {
+  z-index: 10;
+
+  &__second {
+    width: 30%;
+    margin: auto;
+    background-color: rgb(207, 196, 196);
+    border-radius: 5px;
+
+    &__head-wrapper {
+      background-color: rgb(131, 8, 25);
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 25px;
+    }
+
+    &__description {
+      text-align: center;
+      color: black;
+      padding: 0 25px;
+    }
+    &__title {
+      color: white;
+    }
+
+    &__closing-btn {
+      width: 25px;
+      font-size: 20px;
+      color: white;
+      border: none;
+      background-color: transparent;
+      cursor: pointer;
+    }
+  }
+
+  &__first {
+    width: 30%;
+    margin: auto;
+    background-color: rgb(248, 244, 244);
+    border-radius: 5px;
+
+    &__head-wrapper {
+      background-color: rgb(27, 30, 77);
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 25px;
+    }
+
+    &__description {
+      text-align: center;
+      color: rgb(54, 6, 6);
+      padding: 0 25px;
+    }
+    &__title {
+      color: white;
+    }
+
+    &__closing-btn {
+      width: 25px;
+      font-size: 20px;
+      color: white;
+      border: none;
+      background-color: transparent;
+    }
+  }
+}
+
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.modal-container {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,59 @@
+.btn {
+  padding: 10px 10px;
+  margin-top: 30px;
+  cursor: pointer;
+
+  &:not(:last-child) {
+    margin-right: 40px;
+  }
+
+  &--rounded {
+    border-radius: 50px;
+    margin-bottom: 30px;
+    width: 75px;
+    cursor: pointer;
+  }
+
+  &--normal {
+    color: white;
+    border: none;
+    width: 100px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+}
+
+.firstModal,
+.secondModal {
+  padding: 10px 5px;
+  margin: 10px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.firstModal {
+  margin-right: 15px;
+}
+
+.remove-product {
+  left: 105%;
+  bottom: 15px;
+  color: rgb(0, 0, 0);
+  padding: 2px 5px;
+  border-radius: 50%;
+  position: relative;
+  cursor: pointer;
+}
+
+.buy-product {
+  color: white;
+  font-weight: bold;
+  width: 40%;
+  padding: 10px 15px;
+  border-radius: 30px;
+  border: none;
+  margin: 0;
+  cursor: pointer;
+}

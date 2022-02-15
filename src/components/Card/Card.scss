@@ -1,0 +1,56 @@
+.product-card {
+  background: white;
+  width: 25%;
+  padding: 0 25px 25px;
+  margin: 20px;
+  border-radius: 10px;
+  list-style: none;
+
+  &__title {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    font-weight: bold;
+
+    &-span {
+      cursor: pointer;
+      font-size: 40px;
+    }
+  }
+  &__price {
+    display: block;
+    text-align: end;
+    font-weight: bold;
+    color: brown;
+    text-decoration: underline;
+  }
+  &__color {
+    text-align: end;
+    margin: 0;
+
+    &-span {
+      color: rgb(58, 75, 24);
+      font-weight: bold;
+    }
+  }
+  &__image {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  &__flex-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    // margin-top: 25px;
+  }
+
+  &__choosen {
+    background-color: yellow;
+    padding: 10px;
+  }
+}
+
+.secondModal {
+  color: white;
+}
