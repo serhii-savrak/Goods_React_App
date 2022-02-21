@@ -5,7 +5,7 @@
 "price": "9 999₴",
 "article": "111000",
 "color": "white",
-"imageUrl": "/images/phone1.jpg",
+"imageUrl": "./images/phone1.jpg",
 "isFavourite": false,
 "isInBasket": false
 },
@@ -15,7 +15,7 @@
 "price": "25 999₴",
 "article": "111100",
 "color": "olive",
-"imageUrl": "/images/phone2.jpg",
+"imageUrl": "./images/phone2.jpg",
 "isFavourite": false,
 "isInBasket": false
 },
@@ -25,7 +25,7 @@
 "price": "18 499₴",
 "article": "111000",
 "color": "black",
-"imageUrl": "/images/phone3.jpg",
+"imageUrl": "./images/phone3.jpg",
 "isFavourite": false,
 "isInBasket": false
 },
@@ -35,7 +35,7 @@
 "price": "8 999₴",
 "article": "111000",
 "color": "frost blue",
-"imageUrl": "/images/phone4.jpg",
+"imageUrl": "./images/phone4.jpg",
 "isFavourite": false,
 "isInBasket": false
 },
@@ -45,7 +45,7 @@
 "price": "7 799₴",
 "article": "111000",
 "color": "haze gray",
-"imageUrl": "/images/phone5.jpg",
+"imageUrl": "./images/phone5.jpg",
 "isFavourite": false,
 "isInBasket": false
 },
@@ -55,7 +55,7 @@
 "price": "41 499₴",
 "article": "111000",
 "color": "gold",
-"imageUrl": "/images/phone6.jpg",
+"imageUrl": "./images/phone6.jpg",
 "isFavourite": false,
 "isInBasket": false
 },
@@ -65,7 +65,7 @@
 "price": "14 499₴",
 "article": "111000",
 "color": "blue",
-"imageUrl": "/images/phone7.jpg",
+"imageUrl": "/.images/phone7.jpg",
 "isFavourite": false,
 "isInBasket": false
 },
@@ -75,7 +75,7 @@
 "price": "11 999₴",
 "article": "111000",
 "color": "cosmos",
-"imageUrl": "/images/phone8.jpg",
+"imageUrl": "./images/phone8.jpg",
 "isFavourite": false,
 "isInBasket": false
 },
@@ -85,7 +85,7 @@
 "price": "4 799₴",
 "article": "111000",
 "color": "green",
-"imageUrl": "/images/phone9.jpg",
+"imageUrl": "./images/phone9.jpg",
 "isFavourite": false,
 "isInBasket": false
 },
@@ -95,7 +95,7 @@
 "price": "5 199₴",
 "article": "111000",
 "color": "sea blue",
-"imageUrl": "/images/phone10.jpg",
+"imageUrl": "./images/phone10.jpg",
 "isFavourite": false,
 "isInBasket": false
 }
